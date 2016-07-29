@@ -2,15 +2,6 @@
 
 Once invited, you will recieve an email from Slack
 
-## Quick Guide
-
-1. From email, click "Join Team"
-2. Create Slack account + password for PokeAlerts
-3. Download the Slack app
-4. Sign into PokeAlerts.slack.com with your email + password made in step 2
-5. Search and join channels near you
-
-
 ## Detailed Guide (with pics)
 
 ### Part 1 - Create Account
