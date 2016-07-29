@@ -34,7 +34,10 @@ Once invited, you will recieve an email from Slack
 
 ### You're in!
 
-Now pick which areas to recieve rare pokemon alerts
+
+## How do I join a channel and start receiving notifications?
+
+Pick which areas to recieve rare pokemon alerts
 
 - Open the menu (swipe from the left edge of your screen towards the center)
 - Open the available channels (click that little +)
