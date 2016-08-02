@@ -1,3 +1,7 @@
+# PokeAlerts
+
+They're my Pokemon, and I want them NOW!
+
 # PokeAlerts Sign-up Walkthrough
 
 Once invited, you will recieve an email from Slack
@@ -48,4 +52,82 @@ Pick which areas to recieve rare pokemon alerts
 <img src="images/setup6_joinchannel.png" width="220">
 <img src="images/setup7_searchchannel.png" width="220">
 
+
+# Pokemon Lists
+
+## Super Awesome List
+
+These Pokemon give an @channel notification when found
+
+Meaning you can turn a channel notification prefrences to "Mentions of my name or highlight words" and still get notified
+
+- Venusaur
+- Charizard
+- Blastoise
+- Exeggutor
+- Gyarados
+- Lapras
+- Porygon
+- Aerodactyl
+- Snorlax
+- Articuno
+- Zapdos
+- Moltres
+- Dragonite
+- Mewtwo
+- Mew
+
+## Filtered List
+
+These Pokemon do not show up on any alerts right now
+
+- Weedle
+- Kakuna
+- Caterpie
+- Metapod
+- Pidgey
+- Pidgeotto
+- Pidgeot
+- Rattata
+- Raticate
+- Spearow
+- Ekans
+- Pikachu
+- Sandshrew
+- NidoranMale
+- Nidorino
+- NidoranFemale
+- Nidorina
+- Clefary
+- Vulpix
+- Jigglypuff
+- Zubat
+- Golbat
+- Oddish
+- Paras
+- Parasect
+- Venonat
+- Venomoth
+- Diglett
+- Dugtrio
+- Meowth
+- Mankey
+- Primeape
+- Growlithe
+- Machop
+- Abra
+- Kadabra
+- Bellsprout
+- Geodude
+- Graveler
+- Ponyta
+- Rapidash
+- Onix
+- Drowzee
+- Hypno
+- Rhyhorn
+- Rhydon
+- Cubone
+- Eevee
+- Magnemite
 
