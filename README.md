@@ -9,7 +9,8 @@
 
  - [How do I sign up?](#PokeAlerts-Sign-up-Walkthrough) 
  - [Which Pokemon are filtered out?](#pokemon-lists)
- - [How do I get notifications? / How do I join channels?](#joining-channels)
+ - [How do I get notifications? How do I join channels?](#joining-channels)
+ - [What areas have alerts now? Can I request a new channel?](#channels)
  - [How can I help?](#helping-out)
 
 # PokeAlerts Sign-up Walkthrough
@@ -139,6 +140,87 @@ These Pokemon do not show up on any alerts currently
 - Eevee
 - Magnemite
 
+
+# Channels
+
+## Current Channels
+
+Only 1 map link is up right now... it's on the ToDo...
+
+Attempting to go North to South here
+
+- SLC
+	- Gateway
+		- \#ut-slac-gateway
+		- Map Boundries
+	- Sugarhouse
+		- \#ut-slc-sugarhouse
+		- Map Boundries
+	- UofU campus
+		- \#ut-slc-uofucampus
+		- Map Boundries
+- Herriman
+	- \#ut-herriman
+	- Map Boundries
+- Milcreek
+	- West
+		- \#ut-milcreek-west
+		- [Map Boundries](http://www.darrinward.com/lat-long/?id=2144021)
+- Taylorsville
+	- \#ut-taylorsville
+	- Map Boundries
+- South Jordan
+	- Parkway
+		- \#ut-southjordan-pkwy
+		- Map Boundries
+- Riverton
+	- District
+		- \#ut-riverton-district
+		- Map Boundries
+- Sandy
+	- Alta High
+		- \#ut-sandy-altahigh
+		- Map Boundries
+	- Ft Union
+		- \#ut-sandy-ftunion
+		- Map Boundries
+	- Megaplex
+		- \#ut-sandy-megaplex
+		- Map Boundries
+- Draper
+	- Corner Canyon
+		- \#ut-draper-cornercnyn
+		- Map Boundries
+	- South Mountain
+		- \#ut-draper-south-mtn
+		- Map Boundries
+	- State 123rd
+		- \#ut-draper-state123rd
+		- Map Boundries
+- Lehi
+	- 1200W 3200N
+		- \#ut-lehi-1200w3200n
+		- Map Boundries
+	- Traverse
+		- \#ut-lehi-traverse
+		- Map Boundries
+- Orem
+	- Provo
+		- \#ut-orem-provo
+		- Map Boundries
+	- Timpanogas
+		- \#ut-orem-timp
+		- Map Boundries
+	- BYU
+		- \#ut-provo-byu
+		- Map Boundries
+
+## Roadmap
+
+- West Valley
+- Saratoga Springs
+- Daybreak
+- Layton
 
 # Helping Out
 
