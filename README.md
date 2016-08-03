@@ -8,14 +8,13 @@
 # Contents
 
  - [How do I sign up?](#PokeAlerts-Sign-up-Walkthrough) 
- - [Which Pokemon are filtered out?](#pokemon-lists) 
- - [How can I donate?](#donate)
+ - [Which Pokemon are filtered out?](#pokemon-lists)
+ - [How do I get notifications? / How do I join channels?](#joining-channels)
+ - [How can I help?](#donate)
 
 # PokeAlerts Sign-up Walkthrough
 
 Once invited, you will recieve an email from Slack
-
-## Detailed Guide (with pics)
 
 ### Part 1 - Create Account
 
@@ -48,9 +47,9 @@ Once invited, you will recieve an email from Slack
 ### You're in!
 
 
-## How do I join a channel and start receiving notifications?
+# Joining Channels
 
-Pick which areas to recieve rare pokemon alerts
+Pick which channels to recieve pokemon alerts for
 
 - Open the menu (swipe from the left edge of your screen towards the center)
 - Open the available channels (click that little +)
@@ -68,7 +67,7 @@ Pick which areas to recieve rare pokemon alerts
 
 These Pokemon give an @channel notification when found
 
-Meaning you can turn a channel notification prefrences to "Mentions of my name or highlight words" and still get notified
+You can turn a channel notification prefrences to "Mentions of my name or highlight words" and still get notified
 
 - Venusaur
 - Charizard
@@ -88,7 +87,7 @@ Meaning you can turn a channel notification prefrences to "Mentions of my name o
 
 ## Filtered List
 
-These Pokemon do not show up on any alerts right now
+These Pokemon do not show up on any alerts currently
 
 - Weedle
 - Kakuna
