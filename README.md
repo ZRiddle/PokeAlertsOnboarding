@@ -1,6 +1,12 @@
 # PokeAlerts
 
-They're my Pokemon, and I want them NOW!
+"Gotta catch 'em all" - John F. Kennedy
+
+# Contents
+
+ - [How do I sign up?](#PokeAlerts-Sign-up-Walkthrough) 
+ - [Which Pokemon are filtered out?](#pokemon-lists) 
+ - [How can I donate?](#donate)
 
 # PokeAlerts Sign-up Walkthrough
 
@@ -131,3 +137,25 @@ These Pokemon do not show up on any alerts right now
 - Eevee
 - Magnemite
 
+
+# Donate
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="KAPNGJN7SGUUQ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+You can donate with the **Paypal** Button above
+
+You can also donate to the **Venmo** account @PokeAlerts
+
+All donations go towards:
+
+- Offsetting our costs
+- Scaling this up
+- Making this cooler
+- Caffeine for @plampy's bloodstream as he keeps the bots alive during Niantic's murder attempts
+
+**Thank you for all the support!**
