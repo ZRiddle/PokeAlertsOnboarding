@@ -10,7 +10,7 @@
  - [How do I sign up?](#PokeAlerts-Sign-up-Walkthrough) 
  - [Which Pokemon are filtered out?](#pokemon-lists)
  - [How do I get notifications? / How do I join channels?](#joining-channels)
- - [How can I help?](#donate)
+ - [How can I help?](#helping-out)
 
 # PokeAlerts Sign-up Walkthrough
 
@@ -140,19 +140,26 @@ These Pokemon do not show up on any alerts currently
 - Magnemite
 
 
-# Donate
+# Helping Out
+
+## Supporting the Community
+
+So far the chat and comments have been positive and helpful.  Help us keep it that way!
+If we don't have to babysit the chat then we get to spend time doing awesome things for this! 
+Helping new users get started and answering questions also takes a lot off of our plate.
+
+## Spreading the Good Word
+
+We're excited to share this with more people.  If you know someone who will use this, invite them!
+
+## Donating
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAPNGJN7SGUUQ)
 
-You can donate with the **Paypal** Button above
+We're just a couple of guys that found a way to make Pokemon a lot more fun and we wanted to share it.
+Any donations will help **a ton** as we're currently building this with our own time and money.  
+You can donate with the **Paypal** Button above or to the **Venmo** account @PokeAlerts.
 
-You can also donate to the **Venmo** account @PokeAlerts
-
-All donations go towards:
-
-- Offsetting our costs
-- Scaling this up
-- Making this cooler
-- Caffeine for @plampy's bloodstream as he keeps the bots alive during Niantic's murder attempts
+We're excited to expand this to new regions and add better features.
 
 **Thank you for all the support!**
