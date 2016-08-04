@@ -145,75 +145,76 @@ These Pokemon do not show up on any alerts currently
 
 ## Current Channels
 
-Only 1 map link is up right now... it's on the ToDo...
-
 Attempting to go North to South here
 
 - SLC
 	- Gateway
 		- \#ut-slac-gateway
-		- Map Boundries
-	- Sugarhouse
-		- \#ut-slc-sugarhouse
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.775764,-111.909571%0A40.751841,-111.909571%0A40.751841,-111.870003%0A40.775764,-111.870003%0A40.775764,-111.909571%0A)
 	- UofU campus
 		- \#ut-slc-uofucampus
-		- Map Boundries
-- Herriman
-	- \#ut-herriman
-	- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.775764,-111.870003%0A40.751841,-111.870003%0A40.751841,-111.825000%0A40.775764,-111.825000%0A40.775764,-111.870003)
+	- Sugarhouse
+		- \#ut-slc-sugarhouse
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.751841,-111.902618%0A40.751841,-111.825000%0A40.718510,-111.825000%0A40.718510,-111.902618%0A40.751841,-111.902618)
+- Taylorsville
+	- \#ut-taylorsville
+	- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.704054,-111.952772%0A40.641695,-111.952772%0A40.641695,-111.902619%0A40.704054,-111.902619%0A40.704054,-111.952772)
 - Milcreek
 	- West
 		- \#ut-milcreek-west
-		- [Map Boundries](http://www.darrinward.com/lat-long/?id=2144021)
-- Taylorsville
-	- \#ut-taylorsville
-	- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.718510,-111.804322%0A40.686496,-111.804322%0A40.686496,-111.902618%0A40.718510,-111.902618%0A)
 - South Jordan
 	- Parkway
 		- \#ut-southjordan-pkwy
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.561717,-111.929290%0A40.544389,-111.896974%0A)
 - Riverton
 	- District
 		- \#ut-riverton-district
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.54433150215254,-111.98442980647087%0A40.52241298300752,-111.93885371088982%0A)
+- Herriman
+	- \#ut-herriman
+	- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.522245,-112.054809%0A40.4805069,-111.995847%0A)
 - Sandy
-	- Alta High
-		- \#ut-sandy-altahigh
-		- Map Boundries
 	- Ft Union
 		- \#ut-sandy-ftunion
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.60884469309,-111.85946829%0A40.57939488923,-111.803757827%0A)
 	- Megaplex
 		- \#ut-sandy-megaplex
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.595500,-111.89100%0A40.558906,-111.85146%0A)
+	- Alta High
+		- \#ut-sandy-altahigh
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.559000,-111.89100%0A40.544272,-111.83893%0A)
 - Draper
-	- Corner Canyon
-		- \#ut-draper-cornercnyn
-		- Map Boundries
-	- South Mountain
-		- \#ut-draper-south-mtn
-		- Map Boundries
 	- State 123rd
 		- \#ut-draper-state123rd
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.544272,-111.89100%0A40.527272,-111.83893%0A)
+	- Corner Canyon
+		- \#ut-draper-cornercnyn
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.527272,%0A-111.89100%0A40.501000,%0A-111.83893%0A)
+	- South Mountain
+		- \#ut-draper-south-mtn
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.501000,%0A-111.89100%0A40.4834171,%0A-111.83893%0A%0A)
+	- Bangerter
+		- \#ut-draper-bangerter
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.516099,%0A-111.909914%0A40.503635,%0A-111.889658%0A)
 - Lehi
-	- 1200W 3200N
-		- \#ut-lehi-1200w3200n
-		- Map Boundries
 	- Traverse
 		- \#ut-lehi-traverse
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.4520814,%0A-111.915344%0A40.432689,%0A-111.849591%0A)
+	- 1200W 3200N
+		- \#ut-lehi-1200w3200n
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.432689,%0A-111.915344%0A40.412954,%0A-111.849591%0A%0A)
 - Orem
-	- Provo
-		- \#ut-orem-provo
-		- Map Boundries
 	- Timpanogas
 		- \#ut-orem-timp
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.333623,%0A-111.72924%0A40.311636,%0A-111.66512%0A)
+	- Provo
+		- \#ut-orem-provo
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.298123574,%0A-111.7550486%0A40.210869665,%0A-111.6288480%0A)
 	- BYU
 		- \#ut-provo-byu
-		- Map Boundries
+		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.273156,%0A-111.694875%0A40.225805,%0A-111.624613%0A)
 
 ## Roadmap
 
