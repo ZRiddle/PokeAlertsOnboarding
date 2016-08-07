@@ -7,13 +7,13 @@
 
 # Contents
 
- - [How do I sign up?](#PokeAlerts-Sign-up-Walkthrough) 
+ - [How do I sign up?](#sign-up)
  - [Which Pokemon are filtered out?](#pokemon-lists)
  - [How do I get notifications? How do I join channels?](#joining-channels)
  - [What areas have alerts now? Can I request a new channel?](#channels)
  - [How can I help?](#helping-out)
 
-# PokeAlerts Sign-up Walkthrough
+# Sign up
 
 You can request an invite [here](https://pokealerts-invite.herokuapp.com/)
 
@@ -239,7 +239,7 @@ We're excited to share this with more people.  If you know someone who will use 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAPNGJN7SGUUQ)
 
-We're just a couple of guys that found a way to make Pokemon a lot more fun and we wanted to share it.
+We're just a couple guys that found a way to make Pokemon a way fun and wanted to share it.
 Any donations will help **a ton** as we're currently building this with our own time and money.  
 You can donate with the **Paypal** Button above or to the **Venmo** account @PokeAlerts.
 
