@@ -15,7 +15,7 @@
 
 # PokeAlerts Sign-up Walkthrough
 
-Once invited, you will recieve an email from Slack
+You can request an invite [here](https://pokealerts-invite.herokuapp.com/)
 
 ### Part 1 - Create Account
 
