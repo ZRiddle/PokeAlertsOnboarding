@@ -11,6 +11,7 @@
  - [Which Pokemon are filtered out?](#pokemon-lists)
  - [How do I get notifications? How do I join channels?](#joining-channels)
  - [What areas have alerts now? Can I request a new channel?](#channels)
+ - [Can you put bots in my area?](#can-you-put-bots-in-my-area?)
  - [How can I help?](#helping-out)
 
 # Sign up
@@ -160,9 +161,9 @@ Attempting to go North to South here
 - Taylorsville
 	- \#ut-taylorsville
 	- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.704054,-111.952772%0A40.641695,-111.952772%0A40.641695,-111.902619%0A40.704054,-111.902619%0A40.704054,-111.952772)
-- Milcreek
+- Millcreek
 	- West
-		- \#ut-milcreek-west
+		- \#ut-millcreek-west
 		- [Map Boundries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.718510,-111.804322%0A40.686496,-111.804322%0A40.686496,-111.902618%0A40.718510,-111.902618%0A)
 - South Jordan
 	- Parkway
@@ -218,10 +219,49 @@ Attempting to go North to South here
 
 ## Roadmap
 
+In no particular order yet...
+
 - West Valley
 - Saratoga Springs
 - Daybreak
 - Layton
+- Midvale
+- Murray
+
+# Can you put bots in my area?
+
+Yes! However, keep in mind our top priority is keeping the current bots running.  Niantic is constantly trying to murder them and breaking everything.
+
+## How can I help my area get bots?
+
+Great question!
+
+We need a couple things to set up a new zone:
+
+1. Channel name 
+	- We're trying to use this naming convention \#[ut]-[city]-[area]
+	- Look at the current examples above as a reference
+2. Map boundries
+	- We need lat/long boundries
+	- Use the current [Millcreek Map](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.686496,-111.804322) as a reference
+		- This tool isn't very user friendly but it draws a box given the top-right and bottom-left corners
+		- If you find a better online tool for this, let us know!
+	- Try to make your new zone roughly that size 
+	- **Super Bonus Internet Points** if your new zone right next to a current one
+		- Reference the [Channels section](#channels) above for nearby places to your zone
+		- Put your lat/long boundries on the boundries of other current zone(s) 
+		- Example: the upper bound of Millcreek is the lower bound for Sugarhouse
+		- We will probably ignore zone requests that are overlapping current zone(s) (slight overlap on a border is acceptable)
+		- We will likely prioritize new zone requests that nicely border existing zones
+
+
+Continuing with the Millcreek as an example, you would deliver 2 things:
+
+1. Channel name = \#ut-millcreek-west  
+2. Map link = [This link](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.686496,-111.804322)
+
+No promises that we can get your zone up, but doing this for us will make it **MUCH** more likely that we will
+
 
 # Helping Out
 
@@ -239,7 +279,7 @@ We're excited to share this with more people.  If you know someone who will use 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAPNGJN7SGUUQ)
 
-We're just a couple guys that found a way to make Pokemon a way fun and wanted to share it.
+We're just some guys that wanted to share our cool Snorlax + Dragonite finder.  
 Any donations will help **a ton** as we're currently building this with our own time and money.  
 You can donate with the **Paypal** Button above or to the **Venmo** account @PokeAlerts.
 
