@@ -11,7 +11,7 @@
  - [Which Pokemon are filtered out?](#pokemon-lists)
  - [How do I get notifications? How do I join channels?](#joining-channels)
  - [What areas have alerts now? Can I request a new channel?](#channels)
- - [Can you put bots in my area?](#can-you-put-bots-in-my-area?)
+ - [Can you put bots in my area?](#can-you-put-bots-in-my-area)
  - [How can I help?](#helping-out)
 
 # Sign up
