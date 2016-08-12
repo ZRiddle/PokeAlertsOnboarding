@@ -214,6 +214,19 @@ Attempting to go North to South here
 	- Downtown
 	 	- \#ut-lehi-downtown
 	 	- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.412105,-111.906867%0A40.386548,-111.829019)
+- Highland
+	- North/Central
+		- \#ut-highland
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.412954%0A-111.8495%0A40.432689%0A-111.7731)
+	- South
+		- \#ut-highland-south
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.412954,%0A-111.829019%0A40.386548,%0A-111.7731)
+	- Alpine
+		- \#ut-alpine
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.470728,%0A-111.82091%0A40.432689,%0A-111.74786)
+	- Cedar Hills
+		- \#ut-cedarhills
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.432689,%0A-111.7731%0A40.391787,%0A-111.736815)
 - American Fork
 	- 500 East
 		- \#ut-af-500east
