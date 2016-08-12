@@ -74,6 +74,8 @@ You can turn a channel notification prefrences to "Mentions of my name or highli
 - Venusaur
 - Charizard
 - Blastoise
+- Machamp
+- Muk
 - Exeggutor
 - Gyarados
 - Lapras
@@ -158,6 +160,9 @@ Attempting to go North to South here
 	- Sugarhouse
 		- \#ut-slc-sugarhouse
 		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.751841,-111.902618%0A40.751841,-111.825000%0A40.718510,-111.825000%0A40.718510,-111.902618%0A40.751841,-111.902618)
+	- Glendale
+		- \#ut-slc-glendale
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.704054,-111.972772%0A40.741695,-111.972772%0A40.741695,-111.902619%0A40.704054,-111.902619%0A40.704054,-111.972772)
 - Taylorsville
 	- \#ut-taylorsville
 	- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.704054,-111.952772%0A40.641695,-111.952772%0A40.641695,-111.902619%0A40.704054,-111.902619%0A40.704054,-111.952772)
@@ -207,8 +212,12 @@ Attempting to go North to South here
 		- \#ut-lehi-1200w3200n
 		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.432689,%0A-111.915344%0A40.412954,%0A-111.849591%0A%0A)
 	- Downtown
-	- 	- \#ut-lehi-downtown
-	- 	- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.412105,-111.906867%0A40.386548,-111.829019)
+	 	- \#ut-lehi-downtown
+	 	- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.412105,-111.906867%0A40.386548,-111.829019)
+- American Fork
+	- 500 East
+		- \#ut-af-500east
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.386548,-111.814384%0A40.333030,-111.759453%0A%0A)
 - Orem
 	- Timpanogas
 		- \#ut-orem-timp
