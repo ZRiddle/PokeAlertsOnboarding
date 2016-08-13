@@ -174,6 +174,10 @@ Attempting to go North to South here
 	- Parkway
 		- \#ut-southjordan-pkwy
 		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.561717,-111.929290%0A40.544389,-111.896974%0A)
+- West Jordan
+	- East
+		- \#ut-westjordan-east
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.641695,%0A-111.952772%0A40.587885,%0A-111.902619%0A)
 - Riverton
 	- District
 		- \#ut-riverton-district
