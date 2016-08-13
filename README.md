@@ -150,6 +150,10 @@ These Pokemon do not show up on any alerts currently
 
 Attempting to go North to South here
 
+- North Salt Lake
+	- Central
+		- \#ut-northsaltlake
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.869787,-111.947755%0A40.826249,-111.871764)
 - SLC
 	- Gateway
 		- \#ut-slac-gateway
