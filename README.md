@@ -265,7 +265,7 @@ Yes! However, keep in mind our top priority is keeping the current bots running.
 
 Great question!
 
-We need a couple things to set up a new zone:
+To request a zone, you can create a new issue [here](https://github.com/ZRiddle/PokeAlertsOnboarding/issues), please include these 2 things:
 
 1. Channel name 
 	- We're trying to use this naming convention \#[ut]-[city]-[area]
