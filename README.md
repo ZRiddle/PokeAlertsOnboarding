@@ -14,6 +14,7 @@
  - [How do I get notifications? How do I join channels?](#joining-channels)
  - [What areas have alerts now? Can I request a new channel?](#channels)
  - [Can you put bots in my area?](#can-you-put-bots-in-my-area)
+ - [Where are nests located?](https://github.com/ZRiddle/PokeAlertsOnboarding/blob/master/NestLocations.md)
  - [How can I help?](#helping-out)
 
 # Sign up
