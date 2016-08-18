@@ -100,7 +100,7 @@ For a spawn to be considered a potential "Nest" it had to produce that Pokemon a
 [Map Link](http://www.darrinward.com/lat-long/?id=2182424)
 
 
-### Voltord
+### Voltorb
 
 [Map Link](http://www.darrinward.com/lat-long/?id=2182425)
 
