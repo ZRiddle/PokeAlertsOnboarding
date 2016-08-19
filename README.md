@@ -10,7 +10,7 @@
 # Contents
 
  - [How do I sign up?](#sign-up)
- - [Which Pokemon are filtered out?](#pokemon-lists)
+ - [Which Pokemon are filtered out?](https://github.com/ZRiddle/PokeAlertsOnboarding/blob/master/PokemonLists.md)
  - [How do I get notifications? How do I join channels?](#joining-channels)
  - [What areas have alerts now? Can I request a new channel?](#channels)
  - [Can you put bots in my area?](#can-you-put-bots-in-my-area)
@@ -64,87 +64,6 @@ Pick which channels to recieve pokemon alerts for
 
 <img src="images/setup6_joinchannel.png" width="220">
 <img src="images/setup7_searchchannel.png" width="220">
-
-
-# Pokemon Lists
-
-## Super Awesome List
-
-These Pokemon give an @channel notification when found
-
-You can turn a channel notification prefrences to "Mentions of my name or highlight words" and still get notified
-
-- Venusaur
-- Charizard
-- Blastoise
-- Machamp
-- Muk
-- Exeggutor
-- Gyarados
-- Lapras
-- Porygon
-- Aerodactyl
-- Snorlax
-- Articuno
-- Zapdos
-- Moltres
-- Dragonite
-- Mewtwo
-- Mew
-
-## Filtered List
-
-These Pokemon do not show up on any alerts currently
-
-- Weedle
-- Kakuna
-- Caterpie
-- Metapod
-- Pidgey
-- Pidgeotto
-- Pidgeot
-- Rattata
-- Raticate
-- Spearow
-- Ekans
-- Pikachu
-- Sandshrew
-- NidoranMale
-- Nidorino
-- NidoranFemale
-- Nidorina
-- Clefary
-- Vulpix
-- Jigglypuff
-- Zubat
-- Golbat
-- Oddish
-- Paras
-- Parasect
-- Venonat
-- Venomoth
-- Diglett
-- Dugtrio
-- Meowth
-- Mankey
-- Primeape
-- Growlithe
-- Machop
-- Abra
-- Kadabra
-- Bellsprout
-- Geodude
-- Graveler
-- Ponyta
-- Rapidash
-- Onix
-- Drowzee
-- Hypno
-- Rhyhorn
-- Rhydon
-- Cubone
-- Eevee
-- Magnemite
 
 
 # Channels
@@ -264,7 +183,7 @@ In no particular order yet...
 
 # Can you put bots in my area?
 
-Yes! However, keep in mind our top priority is keeping the current bots running.  Niantic is constantly trying to murder them and breaking everything.
+Yes! However, keep in mind our top priority is keeping stuff running.
 
 ## How can I help my area get bots?
 
@@ -295,6 +214,10 @@ Continuing with the Millcreek as an example, you would deliver 2 things:
 2. Map link = [This link](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.686496,-111.804322)
 
 No promises that we can get your zone up, but doing this for us will make it **MUCH** more likely that we will
+
+### Where do I request a new zone?
+
+On the issues page [here](https://github.com/ZRiddle/PokeAlertsOnboarding/issues)
 
 
 # Helping Out
