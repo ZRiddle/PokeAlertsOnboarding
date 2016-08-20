@@ -88,6 +88,12 @@ Attempting to go North to South here
 - Taylorsville
 	- \#ut-taylorsville
 	- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.704054,-111.952772%0A40.641695,-111.952772%0A40.641695,-111.902619%0A40.704054,-111.902619%0A40.704054,-111.952772)
+- West Valley
+	- \#ut-west-valley
+	- [Map Boundaries](http://tinyurl.com/jqwnyt9)
+- Kearns
+	- \#ut-kearns
+	- [Map Boundaries](http://tinyurl.com/gmnhvty)
 - Millcreek
 	- West
 		- \#ut-millcreek-west
