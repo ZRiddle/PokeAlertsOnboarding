@@ -74,7 +74,7 @@ Attempting to go North to South here
 
 - SLC
 	- Gateway
-		- \#ut-slac-gateway
+		- \#ut-slc-gateway
 		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.775764,-111.909571%0A40.751841,-111.909571%0A40.751841,-111.870003%0A40.775764,-111.870003%0A40.775764,-111.909571%0A)
 	- UofU campus
 		- \#ut-slc-uofucampus
@@ -91,7 +91,10 @@ Attempting to go North to South here
 - Millcreek
 	- West
 		- \#ut-millcreek-west
-		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.718510,-111.804322%0A40.686496,-111.804322%0A40.686496,-111.902618%0A40.718510,-111.902618%0A)
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.686496,-111.854382)
+	- East
+		- \#ut-millcreek-east
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.854382%0A40.686496,-111.804322)
 - South Jordan
 	- Parkway
 		- \#ut-southjordan-pkwy
@@ -100,6 +103,12 @@ Attempting to go North to South here
 	- East
 		- \#ut-westjordan-east
 		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.641695,%0A-111.952772%0A40.587885,%0A-111.902619%0A)
+- Murray
+	- \#ut-murray
+	- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.686793,-111.90273 %0A40.629593,-111.854789)
+- Holladay
+	- \#ut-holladay
+	- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.686793,-111.854668%0A40.629593,-111.803687)
 - Riverton
 	- District
 		- \#ut-riverton-district
@@ -129,7 +138,7 @@ Attempting to go North to South here
 		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.501000,%0A-111.89100%0A40.4834171,%0A-111.83893%0A%0A)
 	- Bangerter
 		- \#ut-draper-bangerter
-		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.516099,%0A-111.909914%0A40.503635,%0A-111.889658%0A)
+		- [Map Boundaries](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.527272,%0A-111.928968,%0A40.499997,%0A-111.89100%0A)
 - Lehi
 	- Traverse
 		- \#ut-lehi-traverse
@@ -179,7 +188,7 @@ In no particular order yet...
 - Layton
 - Viridian City
 - Midvale
-- Murray
+- Redridge Mountains
 
 # Can you put bots in my area?
 
@@ -194,15 +203,15 @@ To request a zone, you can create a new issue [here](https://github.com/ZRiddle/
 1. Channel name 
 	- We're trying to use this naming convention \#[ut]-[city]-[area]
 	- Look at the current examples above as a reference
-2. Map boundries
-	- We need lat/long boundries
+2. Map boundaries
+	- We need lat/long boundaries
 	- Use the current [Millcreek Map](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.686496,-111.804322) as a reference
 		- This tool isn't very user friendly but it draws a box given the top-right and bottom-left corners
 		- If you find a better online tool for this, let us know!
 	- Try to make your new zone roughly that size 
 	- **Super Bonus Internet Points** if your new zone right next to a current one
 		- Reference the [Channels section](#channels) above for nearby places to your zone
-		- Put your lat/long boundries on the boundries of other current zone(s) 
+		- Put your lat/long boundaries on the boundaries of other current zone(s) 
 		- Example: the upper bound of Millcreek is the lower bound for Sugarhouse
 		- We will probably ignore zone requests that are overlapping current zone(s) (slight overlap on a border is acceptable)
 		- We will likely prioritize new zone requests that nicely border existing zones
