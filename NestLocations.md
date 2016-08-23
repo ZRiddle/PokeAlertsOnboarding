@@ -1,6 +1,11 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAPNGJN7SGUUQ)
 
+# **EDIT 8/22/16 8:00 pm**
+
+All nests have rotated.  People are speculating that it's +2 in the pokedex number.  All of these nest **locations** are **STILL CORRECT**, however the Pokemon there will be different.
+
 # Nest Locations
+
 
 These are nest locations using data from a couple million spawns.  
 These spawns were in Utah, from Provo to SLC.
