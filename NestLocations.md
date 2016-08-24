@@ -1,9 +1,5 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAPNGJN7SGUUQ)
 
-# **EDIT 8/22/16 8:00 pm**
-
-All nests have rotated.  People are speculating that it's +2 in the pokedex number.  All of these nest **locations** are **STILL CORRECT**, however the Pokemon there will be different.
-
 # Nest Locations
 
 
@@ -13,6 +9,17 @@ These spawns were in Utah, from Provo to SLC.
 This is **NOT** user submitted data, these are actual spawns.
 
 For a spawn to be considered a potential "Nest" it had to produce that Pokemon at least 20% of the time
+
+
+### Update 8/22/16 8:00 pm
+
+All nests have rotated.  People are speculating that it's +2 in the pokedex number.  All of these nest **locations** are **STILL CORRECT**, however the Pokemon there will be different.
+
+### Update 8/24/16 
+
+We're mapping the nest changes in this [google sheet](https://docs.google.com/spreadsheets/d/1AqXpvmg1HxzLH-TxjgJk9njYFdXeyLmPfc2g2RXs9CI/edit#gid=0)
+
+We're assuming the nest locations are the same and looking at what is spawning there now.  
 
 # Pokemon
 
