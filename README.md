@@ -70,22 +70,19 @@ Pick which channels to recieve pokemon alerts for
 
 ## Current Channels
 
-Added a better map for this [here](https://www.scribblemaps.com/maps/view/pogo/erduFdF20m)
+Added a better map for this [here](https://www.scribblemaps.com/maps/view/UTPOKEALERTS/erduFdFad12z2)
 
 
 ## Roadmap
 
 In no particular order yet...
 
-- West Valley
-- Saratoga Springs
-- South Lehi
+- Kings Landing
 - Westfall
-- Daybreak
 - Layton
 - Viridian City
-- Midvale
 - Eagle Mountain
+- Atlantis
 - Redridge Mountains
 
 # Can you put bots in my area?
