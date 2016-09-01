@@ -5,7 +5,7 @@
 
 "Gotta catch 'em all" - John F. Kennedy
 
-[Follow this link to join!](https://pokealerts-invite.herokuapp.com/)
+Must receive invite from current member to join
 
 # Contents
 
