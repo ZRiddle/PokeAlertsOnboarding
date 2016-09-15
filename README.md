@@ -19,7 +19,7 @@ Must receive invite from current member to join
 
 # Sign up
 
-You can request an invite [here](https://pokealerts-invite.herokuapp.com/)
+You first must recieve an invite from a current member
 
 ### Part 1 - Create Account
 
@@ -87,41 +87,7 @@ In no particular order yet...
 
 # Can you put bots in my area?
 
-Yes! However, keep in mind our top priority is keeping stuff running.
-
-## How can I help my area get bots?
-
-Great question!
-
-To request a zone, you can create a new issue [here](https://github.com/ZRiddle/PokeAlertsOnboarding/issues), please include these 2 things:
-
-1. Channel name 
-	- We're trying to use this naming convention \#[ut]-[city]-[area]
-	- Look at the current examples above as a reference
-2. Map boundaries
-	- We need lat/long boundaries
-	- Use the current [Millcreek Map](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.686496,-111.804322) as a reference
-		- This tool isn't very user friendly but it draws a box given the top-right and bottom-left corners
-		- If you find a better online tool for this, let us know!
-	- Try to make your new zone roughly that size 
-	- **Super Bonus Internet Points** if your new zone right next to a current one
-		- Reference the [Channels section](#channels) above for nearby places to your zone
-		- Put your lat/long boundaries on the boundaries of other current zone(s) 
-		- Example: the upper bound of Millcreek is the lower bound for Sugarhouse
-		- We will probably ignore zone requests that are overlapping current zone(s) (slight overlap on a border is acceptable)
-		- We will likely prioritize new zone requests that nicely border existing zones
-
-
-Continuing with the Millcreek as an example, you would deliver 2 things:
-
-1. Channel name = \#ut-millcreek-west  
-2. Map link = [This link](http://s2map.com/#order=latlng&mode=polygon&s2=false&points=40.718510,-111.902618%0A40.686496,-111.804322)
-
-No promises that we can get your zone up, but doing this for us will make it **MUCH** more likely that we will
-
-### Where do I request a new zone?
-
-On the issues page [here](https://github.com/ZRiddle/PokeAlertsOnboarding/issues)
+We aren't expanding to more areas right now
 
 
 # Helping Out
